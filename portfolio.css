@@ -13,6 +13,15 @@ body {
     font-size: 75px;
 }    
 
+ul {
+    border: 1px dotted white;
+    border-radius: 2px;
+}
+
+li {
+    border-left: 1px dotted white;
+}
+
 a {
     color: white;
     font-size: 25px;
