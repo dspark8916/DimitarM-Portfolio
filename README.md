@@ -8,7 +8,7 @@
 
     Now that we know what a porfolio is and the importance of it, here we will go over what our tasks were and the type of portfolio we needed to create. Using Bootstrap CSS Framework we were asked to create a mobile responsive portfolio, so that regardless of the screen size or mobile device the user is using to view the porfolio they would be able to access it without issue. We needed to create three separate pages to separate three different parts of our webpage and each page needed to include a navbar, a responsive layout, and responsive images. Next we will go over the tasks completed in order to acheive our objective. 
 
-### Tasks Completed
+## Tasks Completed
 
     Below you will find a list of the tasks we completed in order to make a functional deployed application with a consistent Navbar on each page which includes links to About Me, Porfolio, and Contact pages. For each page we utilized Bootstrap components and a grid system with semantic html and working links to each of the pages, which contains our personalized information.
 
@@ -35,3 +35,7 @@
         10. Created working links on each page taking you to the respective page once clicked upon.
 
         11. Inserted personalized information into the index.html file.
+
+## Link to Completed Portfolio & Screenshots of completed webpage
+
+    **Live Link** - [DimitarM Porfolio](https://dspark8916.github.io/DimitarM-Portfolio/)
