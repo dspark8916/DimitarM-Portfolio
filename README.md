@@ -10,8 +10,28 @@
 
 ### Tasks Completed
 
-    Below you will find a list of the tasks we completed in order to make a functional deployed application with a consistent Navbar on each page which includes links to About Me, Porfolio, and Contact pages. 
+    Below you will find a list of the tasks we completed in order to make a functional deployed application with a consistent Navbar on each page which includes links to About Me, Porfolio, and Contact pages. For each page we utilized Bootstrap components and a grid system with semantic html and working links to each of the pages, which contains our personalized information.
 
     **List of Tasks Completed**
 
-        1.
+        1. Created index.html file which links to About Me page.
+
+        2. Created portfolio.html file which links to Porfolio page.
+
+        3. Created contact.html file which links to Contact page.
+
+        4. Added navbar to each of the three pages.
+
+        5. Created a responsive layout for each page.
+
+        6. Inserted responsive images to index.html file & portfolio.html file.
+
+        7. Created index.css file to help with additional styling for index.html file.
+
+        8. Created porfolio.css file to help with additional styling for portfolio.html file.
+
+        9. Created contact.css file to help with additional styling for contact.html file.
+
+        10. Created working links on each page taking you to the respective page once clicked upon.
+
+        11. Inserted personalized information into the index.html file.
