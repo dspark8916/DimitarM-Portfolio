@@ -10,3 +10,8 @@
 
 ### Tasks Completed
 
+    Below you will find a list of the tasks we completed in order to make a functional deployed application with a consistent Navbar on each page which includes links to About Me, Porfolio, and Contact pages. 
+
+    **List of Tasks Completed**
+
+        1.
