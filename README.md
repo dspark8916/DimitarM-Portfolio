@@ -38,9 +38,9 @@
 
 ## Link to Completed Portfolio & Screenshots of completed webpage
 
-    **Live Link** - [DimitarM Porfolio](https://dspark8916.github.io/DimitarM-Portfolio/)
+**Live Link** - [DimitarM Porfolio](https://dspark8916.github.io/DimitarM-Portfolio/)
 
-    **Screenshots**
+**Screenshots**
 
 ![About Me Screenshot](https://github.com/dspark8916/DimitarM-Portfolio/blob/main/assets/About%20Me.png)
 
